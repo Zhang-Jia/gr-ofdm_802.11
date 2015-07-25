@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_9ae88756d227d33759a459ed6d9c5734" kind="dir">
+    <compoundname>/home/juan/Cognitivegnublocks/gr-ofdm_80211/include/ofdm_80211/</compoundname>
+    <innerfile refid="api_8h">api.h</innerfile>
+    <innerfile refid="bor_8h">bor.h</innerfile>
+    <innerfile refid="ofdm__sync__short_8h">ofdm_sync_short.h</innerfile>
+    <innerfile refid="short__match__filter_8h">short_match_filter.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/juan/Cognitivegnublocks/gr-ofdm_80211/include/ofdm_80211/"/>
+  </compounddef>
+</doxygen>

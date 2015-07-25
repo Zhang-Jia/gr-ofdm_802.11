@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="namespacegr_1_1ofdm__80211" kind="namespace">
+    <compoundname>gr::ofdm_80211</compoundname>
+    <innerclass refid="classgr_1_1ofdm__80211_1_1bor" prot="public">gr::ofdm_80211::bor</innerclass>
+    <innerclass refid="classgr_1_1ofdm__80211_1_1ofdm__sync__short" prot="public">gr::ofdm_80211::ofdm_sync_short</innerclass>
+    <innerclass refid="classgr_1_1ofdm__80211_1_1short__match__filter" prot="public">gr::ofdm_80211::short_match_filter</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/juan/Cognitivegnublocks/gr-ofdm_80211/include/ofdm_80211/bor.h" line="29"/>
+  </compounddef>
+</doxygen>

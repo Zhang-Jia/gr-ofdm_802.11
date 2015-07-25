@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<block>
+  <name>bor</name>
+  <key>ofdm_80211_bor</key>
+  <category>ofdm_80211</category>
+  <import>import ofdm_80211</import>
+  <make>ofdm_80211.bor()</make>
+  
+
+
+
+  <sink>
+    <name>in</name>
+    <type>complex</type>
+  </sink>
+ 
+  <source>
+    <name>out</name>
+    <type>complex</type>
+  </source>
+</block>

@@ -1,0 +1,30 @@
+INCLUDE(FindPkgConfig)
+PKG_CHECK_MODULES(PC_OFDM_80211 ofdm_80211)
+
+FIND_PATH(
+    OFDM_80211_INCLUDE_DIRS
+    NAMES ofdm_80211/api.h
+    HINTS $ENV{OFDM_80211_DIR}/include
+        ${PC_OFDM_80211_INCLUDEDIR}
+    PATHS ${CMAKE_INSTALL_PREFIX}/include
+          /usr/local/include
+          /usr/include
+)
+
+FIND_LIBRARY(
+    OFDM_80211_LIBRARIES
+    NAMES gnuradio-ofdm_80211
+    HINTS $ENV{OFDM_80211_DIR}/lib
+        ${PC_OFDM_80211_LIBDIR}
+    PATHS ${CMAKE_INSTALL_PREFIX}/lib
+          ${CMAKE_INSTALL_PREFIX}/lib64
+          /usr/local/lib
+          /usr/local/lib64
+          /usr/lib
+          /usr/lib64
+)
+
+INCLUDE(FindPackageHandleStandardArgs)
+FIND_PACKAGE_HANDLE_STANDARD_ARGS(OFDM_80211 DEFAULT_MSG OFDM_80211_LIBRARIES OFDM_80211_INCLUDE_DIRS)
+MARK_AS_ADVANCED(OFDM_80211_LIBRARIES OFDM_80211_INCLUDE_DIRS)
+

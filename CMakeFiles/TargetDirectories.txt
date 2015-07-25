@@ -1,0 +1,12 @@
+/home/juan/Cognitivegnublocks/gr-ofdm_80211/swig/CMakeFiles/_ofdm_80211_swig.dir
+/home/juan/Cognitivegnublocks/gr-ofdm_80211/swig/CMakeFiles/_ofdm_80211_swig_doc_tag.dir
+/home/juan/Cognitivegnublocks/gr-ofdm_80211/swig/CMakeFiles/_ofdm_80211_swig_swig_tag.dir
+/home/juan/Cognitivegnublocks/gr-ofdm_80211/docs/doxygen/CMakeFiles/doxygen_target.dir
+/home/juan/Cognitivegnublocks/gr-ofdm_80211/lib/CMakeFiles/gnuradio-ofdm_80211.dir
+/home/juan/Cognitivegnublocks/gr-ofdm_80211/swig/CMakeFiles/ofdm_80211_swig_swig_2d0df.dir
+/home/juan/Cognitivegnublocks/gr-ofdm_80211/swig/CMakeFiles/ofdm_80211_swig_swig_doc.dir
+/home/juan/Cognitivegnublocks/gr-ofdm_80211/apps/CMakeFiles/pygen_apps_9a6dd.dir
+/home/juan/Cognitivegnublocks/gr-ofdm_80211/python/CMakeFiles/pygen_python_909d4.dir
+/home/juan/Cognitivegnublocks/gr-ofdm_80211/swig/CMakeFiles/pygen_swig_8f8ff.dir
+/home/juan/Cognitivegnublocks/gr-ofdm_80211/lib/CMakeFiles/test-ofdm_80211.dir
+/home/juan/Cognitivegnublocks/gr-ofdm_80211/CMakeFiles/uninstall.dir

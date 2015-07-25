@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_62a16af57f6389438140a01d3c0defb6" kind="dir">
+    <compoundname>/home/juan/Cognitivegnublocks/gr-ofdm_80211/include/</compoundname>
+    <innerdir refid="dir_9ae88756d227d33759a459ed6d9c5734">/home/juan/Cognitivegnublocks/gr-ofdm_80211/include/ofdm_80211/</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/juan/Cognitivegnublocks/gr-ofdm_80211/include/"/>
+  </compounddef>
+</doxygen>
