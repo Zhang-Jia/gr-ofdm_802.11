@@ -89,7 +89,7 @@ namespace gr {
 			out[i] = in[i] + in_abs[i]  ;
 			} 
 			else{
-				out[i] = in[i] ;
+				out[i] = in[i]*gr_complex( 100  ,0.0);
 			}			
 		}
 	
